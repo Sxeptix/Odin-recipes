@@ -2,3 +2,10 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
+.headding{
+    background-color: aquamarine;
+    font-size: x-large;
+    font-weight: 600;
+    align-self: center;
+    color: yellow;
+}

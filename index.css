@@ -1,0 +1,11 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Heading{
+    background-color: aquamarine;
+    font-size: larger;
+    font-weight: bold;
+    color: yellow;
+    align-items: center;
+}
